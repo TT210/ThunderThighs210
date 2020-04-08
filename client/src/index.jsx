@@ -1,5 +1,5 @@
-import React from 'react'
-import ReactDOM from 'react-dom'
-import Homepage from './component/Homepage.jsx'
+import React from "react";
+import ReactDOM from "react-dom";
+import Homepage from "./components/Homepage/Homepage";
 
-ReactDOM.render( <Homepage />, document.getElementById('homepage'))
+ReactDOM.render(<Homepage />, document.getElementById("homepage"));
